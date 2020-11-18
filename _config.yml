@@ -1,0 +1,8 @@
+title: CRCPython
+description: Python Scripts for Image Analysis, Classification and Change Detection in Remote Sensing
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
