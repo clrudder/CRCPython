@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 #  Name:     ex1_1.py
+
+
+
 import auxil.auxil as auxil
 from numpy import * 
 from osgeo import gdal   
