@@ -17,6 +17,9 @@
 #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 #    GNU General Public License for more details.
 
+
+
+
 import sys, getopt, gdal, Image
 import  auxil.auxil as auxil 
 from osgeo.gdalconst import GA_ReadOnly
